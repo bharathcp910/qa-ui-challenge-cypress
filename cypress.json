@@ -1,0 +1,7 @@
+{
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "env": {
+        "url": "http://localhost:8080"
+    }
+}
